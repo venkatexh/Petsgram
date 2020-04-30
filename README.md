@@ -23,7 +23,7 @@
 
 1. There are five pages Landing, Home, Show, About and Contact
 2. HTML Table is contained in the contact.ejs file
-*3. The page not using Bootstrap and only CSS is the show.ejs file (Note: The navbar is a Bootstrap component but it is derived from the header file)
+3. *The page not using Bootstrap and only CSS is the show.ejs file (Note: The navbar is a Bootstrap component but it is derived from the header file)
 4. Grid system has been used in home.ejs file
 5. An unordered list has been used in the about.ejs file
 6. A slideshow as Bootstrap component has been used in the landing.ejs file
