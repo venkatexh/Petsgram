@@ -1,0 +1,30 @@
+.my-container {
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 2rem;
+	background-color: black;
+}
+
+.my-container h5 {
+	text-align: left;
+	color: white;
+}
+
+.my-container img {
+	height: 100%;
+	width: 100%;
+	border-radius: 2%;
+}
+.my-container p {
+	text-align: left;
+}
+.my-container a {
+	color: white;
+}
+
+@media only screen and (max-width: 600px) {
+	.my-container img {
+		height: 40%;
+	}
+}
